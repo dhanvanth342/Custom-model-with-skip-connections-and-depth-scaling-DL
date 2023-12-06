@@ -3,5 +3,5 @@ This repository is about the project which is part of CS584 (Machine Learning). 
 
 Dataset 1: Butterfly and moth species (https://www.kaggle.com/datasets/gpiosenka/butterfly-images40-species)  
 Dataset 2: FER (https://www.kaggle.com/datasets/msambare/fer2013)  
-ml14a: Model training on Butterfly dataset  
-Ml14b: Model training on FER dataset
+ML14a: Model training on Butterfly dataset  
+ML14b: Model training on FER dataset
